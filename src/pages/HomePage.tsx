@@ -34,7 +34,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl mx-auto text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-6">
-              Welcome to Chesterton Yeates
+              Welcome to KI
             </h2>
             <div className="text-lg text-slate-700 leading-relaxed space-y-4 text-left">
               {homeContent.welcome.text.split('\n\n').map((paragraph, index) => (
