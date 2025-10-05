@@ -39,7 +39,7 @@ export default function Header({ currentPage = 'home' }: HeaderProps) {
         <div className="flex justify-between items-center h-20">
           <div className="flex-shrink-0">
             <a href="#home" className="flex items-center gap-3">
-              <img src="/image.png" alt="IK Real Estate Agency" className="h-12 w-auto" />
+              <img src="/image.png" alt="IK Real Estate Agency" className="h-16 md:h-20 w-auto" />
             </a>
           </div>
 
